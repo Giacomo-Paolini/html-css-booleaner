@@ -72,3 +72,36 @@ table {
 th {
     text-align: left;
 }
+
+#pc1 {
+    width: 312px;
+    height: 208px;
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+#textpc1 {
+    color: white;
+    position: absolute;
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#pc2 {
+    width: 311px;
+    height: 207px;
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+#textpc2 {
+    color: white;
+    position: absolute;
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
