@@ -51,3 +51,24 @@ h1 {
 .description {
     font-size: small;
 }
+
+p {
+    font-size: 20px;
+}
+
+thead {
+    color: white;
+    background-color: #20A9E5;
+}
+table {
+    border-collapse: collapse;
+    background-color: #B1E5F2;
+}
+
+.bianco {
+    background-color: white;
+}
+
+th {
+    text-align: left;
+}
